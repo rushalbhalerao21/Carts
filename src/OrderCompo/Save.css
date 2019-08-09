@@ -1,0 +1,12 @@
+.paynow {
+    
+    position:fixed; 
+    right:100px;
+    top:550px;
+    text-align: center;
+    background-color: rgb(255, 69, 0);
+    color: white;
+}
+.myorder {
+    margin-left: 20 px;
+}
